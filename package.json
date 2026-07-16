@@ -1,0 +1,14 @@
+{
+  "name": "streetflags-finanzas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard financiero Street Flags listo para deploy estático en Netlify.",
+  "scripts": {
+    "start": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
